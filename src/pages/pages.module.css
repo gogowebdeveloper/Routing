@@ -1,0 +1,24 @@
+.align{
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 350px;
+    font-size: 2rem;
+}
+
+.cart_align{
+    /* border: 2px solid red; */
+    display: flex;
+    height: 15rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn{
+    margin: 10px;
+    padding: 2px 50px;
+}
+
